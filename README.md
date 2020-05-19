@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<h2>REST Countries API with color theme switcher</h2>
 
 ![Image description](https://res.cloudinary.com/dz209s6jk/image/upload/v1554827486/Challenges/wirxeocmd6tpnn9c5oqc.jpg)
 
