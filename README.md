@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# countries-api
+this applications is a challenge from the website FrontendMentor in a cattegory advanced, made in react that consumes the COUNTRIES REST API and you can search all the countries and their informations.
+>>>>>>> 316295db6613f0e90dff33dc06582e8c5ae2ae7b
